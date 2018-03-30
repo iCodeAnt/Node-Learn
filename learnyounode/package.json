@@ -1,0 +1,15 @@
+{
+  "name": "learnyounode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "FILTERED_LS.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bl": "^1.2.2",
+    "through2-map": "^3.0.0"
+  }
+}
