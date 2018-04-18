@@ -1,0 +1,5 @@
+ Add "/Users/think/.php-school/bin" to your PATH variable before running the workshop
+ e.g. Run $ echo 'export PATH="$PATH:/Users/think/.php-school/bin"' >> ~/.bashrc && source ~/.bashrc
+ Replacing ~/.bashrc with your chosen bash config file e.g. ~/.zshrc or ~/.profile etc
+ You can validate your PATH variable is configured correctly by running /usr/local/bin/workshop-manager validate
+ Successfully installed "learnyouphp"
